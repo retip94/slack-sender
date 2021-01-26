@@ -1,0 +1,5 @@
+setuptools~=40.6.2
+mock~=4.0.3
+pytest~=6.2.1
+PyYAML~=5.4.1
+slackclient~=2.2.1
